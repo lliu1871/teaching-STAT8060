@@ -1,1 +1,1 @@
-# stat8060
+# STAT8060 - Statistical Computing
