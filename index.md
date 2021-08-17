@@ -1,4 +1,4 @@
-![GitHub Logo](img/test.jpg)
+![GitHub Logo](img/logo.jpg)
      
 
 # STAT8060 - Statistical Computing
