@@ -3,6 +3,8 @@
 
 # STAT8060 - Statistical Computing
 
+---------------------------------------------------------------------------
+
 ### [Course syllabus](STAT8060_syllabus.pdf)
 
 ### 1. Introduction ([code](STAT8060.html), [PPT](STAT8060_1.pptx))
