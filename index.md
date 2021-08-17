@@ -1,5 +1,3 @@
-# STAT8060 - Statistical Computing
-
 ### Course syllabus
 
 ### 1. Introduction (PPT)
