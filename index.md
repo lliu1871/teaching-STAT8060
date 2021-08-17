@@ -1,6 +1,4 @@
-<img src="test.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![GitHub Logo](test.jpg)
      
 [GitHub](http://github.com)
 
