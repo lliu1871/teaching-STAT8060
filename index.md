@@ -1,7 +1,5 @@
 ![GitHub Logo](test.jpg)
      
-[GitHub](http://github.com)
-
 
 # STAT8060 - Statistical Computing
 
