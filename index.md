@@ -7,6 +7,6 @@
 
 ### [Course syllabus](STAT8060_syllabus.pdf)
 
-### 1. Introduction ([code](STAT8060.html), [PPT](STAT8060_1.pptx))
+### 1. Introduction ([code](STAT8060_code.html), [PPT](STAT8060_1.pptx))
 
-### 2. Chapter 1: Numerical Linear Algebra ([code](STAT8060/STAT8060.html), [PPT](STAT8060_2.pptx), [Lecture notes](Chapter 4 Numerical Matrix Analysis.pdf))
+### 2. Chapter 1: Numerical Linear Algebra ([code](STAT8060/STAT8060_code.html), [PPT](STAT8060_2.pptx), [Lecture notes](Chapter_4_Numerical_Matrix_Analysis.pdf))
