@@ -9,4 +9,4 @@
 
 ### 1. Introduction ([code](STAT8060.html), [PPT](STAT8060_1.pptx))
 
-### 2. Chapter 1: Numerical Linear Algebra ([code](STAT8060/STAT8060.html), [PPT](STAT8060_2.pptx))
+### 2. Chapter 1: Numerical Linear Algebra ([code](STAT8060/STAT8060.html), [PPT](STAT8060_2.pptx), [Lecture notes](Chapter 4 Numerical Matrix Analysis.pdf))
