@@ -33,4 +33,5 @@ Dial by your location
 Meeting ID: 976 0503 6064
 Find your local number: https://zoom.us/u/acBbyhnWQV
 
-
+Fast Fourier Transform
+http://www.di.fc.ul.pt/~jpn/r/fourier/fourier.html
